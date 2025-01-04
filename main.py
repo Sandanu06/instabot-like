@@ -189,7 +189,7 @@ class InstagramBot:
 if __name__ == "__main__":
     # Configuration
     USERNAME = "sandanu_hewage"
-    PASSWORD = "IUFC232HEM4147"
+    PASSWORD = ""
     
     # List of target users
     TARGET_USERS = [
